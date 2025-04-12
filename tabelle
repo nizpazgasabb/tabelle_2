@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tabella 1</title>
+</head>
+<body>
+
+<h2>Tabella 1: Struttura Base</h2>
+
+<table> <tr> <td>Cella 1, Riga 1</td> <td>Cella 2, Riga 1</td> </tr> <tr> <td>Cella 1, Riga 2</td> <td>Cella 2, Riga 2</td> </tr> </table> </body>
+</html>
