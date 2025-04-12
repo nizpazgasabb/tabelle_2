@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <!-- Inizio del documento HTML -->
+
+<head>
+  <!-- Sezione dell'intestazione del documento -->
+  <title>
+    Tabella 1
+    <!-- Titolo della pagina che appare nella scheda del browser -->
+  </title>
+</head>
+
+<body>
+  <!-- Corpo del documento -->
+  <h2>
+    Tabella 1: Struttura Base
+    <!-- Intestazione della tabella -->
+  </h2>
+  <table>
+    <!-- Inizio della tabella -->
+    <tr>
+      <!-- Prima riga della tabella -->
+      <td> Cella 1, Riga 1 </td>
+      <!-- Prima cella della prima riga -->
+      <td> Cella 2, Riga 1 </td>
+      <!-- Seconda cella della prima riga -->
+    </tr>
+    <tr>
+      <!-- Seconda riga della tabella -->
+      <td> Cella 1, Riga 2 </td>
+      <!-- Prima cella della seconda riga -->
+      <td> Cella 2, Riga 2 </td>
+      <!-- Seconda cella della seconda riga -->
+    </tr>
+  </table>
+  <!-- Fine della tabella -->
+</body>
+
+</html>
+<!-- Fine del documento HTML -->
